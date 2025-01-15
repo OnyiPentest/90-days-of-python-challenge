@@ -6,6 +6,7 @@ Day 10: Introduction to Libraries
 - Topics:
  - Introduction to Python libraries: how to install and use them (using pip).
 - Using built-in libraries like os, sys, math.
+
 - Project:
 - Write a Python script that calculates the square root of a number using the math library.
 
@@ -17,6 +18,8 @@ Math.sqrt(): Calculates the square root of the input.
 Print(): Displays the result clearly.
 
 '''
+
+print ("\nA SIMPLE PYTHON TO CALCULATE SQUARE ROOT OF A NUMBER\n")
 
 # Step 1: Import the math library
 import math
