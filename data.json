@@ -1,0 +1,9 @@
+{
+    "employees": [
+        {"name": "Ella Mande", "age": 30, "department": "Engineering"},
+        {"name": "Jane Nwankwo", "age": 25, "department": "Marketing"},
+        {"name": "Sam Johnson", "age": 35, "department": "HR"}
+    ],
+    "company": "MSQ",
+    "location": "Nigeria"
+}
